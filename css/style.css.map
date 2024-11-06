@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/_typography.scss","../sass/_variable.scss","../sass/_base.scss","../sass/_break1120.scss"],"names":[],"mappings":"AACA,GACK,4BACA,MCIQ,UDCR,YCNU,gBDOV,MCDS,QCPd,KACK,kBACA,SACA,aACA,YDFO,uBCGP,iBDDQ,QELb,sCACK,KACK","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_typography.scss","../sass/_variable.scss","../sass/_base.scss","../sass/_break1120.scss"],"names":[],"mappings":"AACA,GACK,4BACA,MCIQ,UDCR,YCNU,gBDOV,MCDS,QCNd,KACK,kBACA,SACA,YDFO,uBCGP,iBDDQ,QCER,cACK,aCRV,sCACK,KACK","file":"style.css"}
