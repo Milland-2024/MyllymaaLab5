@@ -1,0 +1,11 @@
+@use "variable" as *;
+h1 {
+     font-family: $font_heading;
+     color: $color_pink;
+}
+
+
+p {
+     font-family: $font_heading;
+     color: $color_white;
+}
